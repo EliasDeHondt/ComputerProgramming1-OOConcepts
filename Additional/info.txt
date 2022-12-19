@@ -1,0 +1,7 @@
+// throws Exception
+// Scanner scanner = new Scanner(new File(BESTAND));
+// scanner.close();
+
+// Formatter fm = new Formatter(BESTAND);
+
+// fm.format

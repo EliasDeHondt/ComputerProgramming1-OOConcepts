@@ -1,0 +1,91 @@
+/**
+ * Van Elias De Hondt
+ * 26/09/2022
+ */
+
+// Vraag1
+/**
+ * int a = 4;
+ * int b = 2;
+ * System.out.println("De som is: " + a + b);
+ *
+ * A en b worden hier allebei geprint of met andere woorden 4 en 2 worden naast elkaar geprint zonder spatie dit lijkt dat de uitkomst van som 42 is maar dat is niet het geval.
+ */
+// Vraag2
+/**
+ * int a = 46400;
+ * int b = a * a;
+ * System.out.println("b = " + b);
+ *
+ * Variabele b moet met long gedefinieerd worden niet met int. 46400 * 46400 = ...  is te lang voor int.
+ *
+ */
+
+// Vraag3
+/**
+ * int a = 32700;
+ * int b = (a / 1000) * 500;
+ * int c = (a * 500) / 1000;
+ * System.out.println("b = " + b);
+ * System.out.println("c = " + c);
+ *
+ * Variabele c moet met long gedefinieerd worden niet met int. a * 500 = ...  is te lang voor int.
+ *
+ */
+
+// Vraag4
+/**
+ * double d = 0;
+ * while(d != 0.3) {
+ *     d += 0.1;
+ *     System.out.println(d);
+ * }
+ * De while loop blijft doorgaan dit kan opgelost worden met het "<=" in de plaats van het "!=".
+ *
+ */
+
+// Vraag5
+/**
+ * double d = 0.1 + 0.2;
+ * if (d == 0.3) {
+ *     System.out.println("yes");
+ * } else {
+ *     System.out.println("no");
+ * }
+ *
+ * Men krijgt weer bij de som van 0.1+0.2 geen 0.3 maar 0.30000000000000004.
+ */
+
+// Vraag6
+/**
+ * float f = 1000000F;
+ * int i = 0;
+ * while(i<100000000) {
+ *     f += 0.04F;
+ *     i++;
+ * }
+ * System.out.println("f = " + f);
+ *
+ * Het getal In de variabele i is te groot.
+ */
+
+// Vraag7
+/**
+ * double d = 1234567890123456.0;
+ * int i = 0;
+ * while(i<100) {
+ *     d += 0.2;
+ *     ++i;
+ * }
+ * System.out.println("d = " + d);
+ *
+ * Werkt niet omdat men weer niet exact + 0.2 doet.
+ */
+
+// Vraag8
+/**
+ * double a = 2927.6 + 67 + 63 + 63 + 70 - 3142.5
+ * System.out.println("a = " + a);
+ *
+ * Er mist een ';'
+ */
