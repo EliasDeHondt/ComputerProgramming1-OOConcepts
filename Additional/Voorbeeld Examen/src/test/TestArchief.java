@@ -49,4 +49,3 @@ public class TestArchief {
      boek (2016-12-07 09:50:55, 1009p, 0.37m³)
      */
 }
-

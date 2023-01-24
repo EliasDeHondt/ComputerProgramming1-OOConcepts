@@ -64,7 +64,6 @@ public class Archief {
         if (archiefstuk.hoortIn().equals("KokerType")) {
             return this.kokerList.get(this.kokerIndex++);
         }
-
         return null;
     }
     public List<Boek> getSorteerdeBoeken() {
