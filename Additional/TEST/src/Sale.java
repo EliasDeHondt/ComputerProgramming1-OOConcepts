@@ -4,13 +4,17 @@
  */
 public class Sale {
     public double getTotal() {
-        SalesLineItem[] lineItems = new SalesLineItem[3];
+        SalesLineItem[] lineItems = new SalesLineItem[4];
 
         double total = 0;
+
         for (SalesLineItem sli: lineItems) {
+
             ProductDescription description = sli.getProductDescription();
+
             total += sli.getQuantity() * description.getPrice();
         }
+
         return total;
     }
 }
