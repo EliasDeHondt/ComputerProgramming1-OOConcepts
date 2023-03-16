@@ -3,7 +3,7 @@ package ConcreteKlassen;
 import Transportmiddel.Transportmiddel;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 28/11/2022
  */
 public class Bus extends Transportmiddel {

@@ -3,7 +3,7 @@ import Personen.Maten;
 import Personen.Persoon;
 
 /**
- * Van Elias De Hondt
+ * @author Van Elias De Hondt
  * 21/11/2022
  */
 public class Model extends Persoon {

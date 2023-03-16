@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 26/09/2022
  */
 public class Schrikkeljaar {

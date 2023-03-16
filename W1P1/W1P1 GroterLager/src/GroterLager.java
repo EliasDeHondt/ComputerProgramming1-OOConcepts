@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 22/09/2022
  */
 public class GroterLager {

@@ -4,7 +4,7 @@ import golven.GolvenGrafiek;
 import java.util.Scanner;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 28/10/2022
  */
 public class GolfTest {

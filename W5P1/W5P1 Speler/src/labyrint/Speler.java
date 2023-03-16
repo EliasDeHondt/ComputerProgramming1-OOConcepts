@@ -3,7 +3,7 @@ package labyrint;
 import static java.lang.String.format;
 
 /**
- * Van Elias De Hondt
+ * @author Van Elias De Hondt
  * 17/10/2022
  */
 public class Speler {

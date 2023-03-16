@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 6/10/2022
  */
 public class Rangschikken {

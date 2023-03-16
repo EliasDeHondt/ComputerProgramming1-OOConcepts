@@ -3,7 +3,7 @@ import labyrint.Speler;
 import java.util.Scanner;
 
 /**
- * Van Elias De Hondt
+ * @author Van Elias De Hondt
  * 17/10/2022
  */
 public class DemoSpeler {

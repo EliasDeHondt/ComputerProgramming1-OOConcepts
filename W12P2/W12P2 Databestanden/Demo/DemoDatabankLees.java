@@ -2,7 +2,7 @@ import Table1.*;
 import Table2.*;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 19/12/2022
  */
 public class DemoDatabankLees {

@@ -1,10 +1,10 @@
-import Circle;
-import Rectangle;
-import Shape;
-import Square;
+//import Circle;
+//import Rectangle;
+//import Shape;
+//import Square;
 
 /**
- * Van Elias De Hondt
+ * @author Van Elias De Hondt
  * 28/11/2022
  */
 public class TestPolymorfisme {

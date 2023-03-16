@@ -1,7 +1,7 @@
 package planten;
 
 /**
- * Van Elias De Hondt
+ * @author Van Elias De Hondt
  * 20/10/2022
  */
 public class KamerPlant {

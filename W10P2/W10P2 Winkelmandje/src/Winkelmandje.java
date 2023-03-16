@@ -3,7 +3,7 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 5/12/2022
  */
 public class Winkelmandje {

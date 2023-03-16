@@ -3,7 +3,7 @@ import java.time.Period;
 import java.util.Scanner;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 17/11/2022
  */
 public class Leeftijd {

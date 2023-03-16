@@ -1,5 +1,5 @@
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 20/12/2022
  */
 public class Geschenk {

@@ -5,7 +5,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Random;
 
 /**
- * Van Elias De Hondt
+ * @author Van Elias De Hondt
  * 18/11/2022
  */
 public class ChatBot {

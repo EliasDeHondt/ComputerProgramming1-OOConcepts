@@ -3,7 +3,7 @@ package Chatbot3;
 import java.util.Scanner;
 
 /**
- * Van Elias De Hondt
+ * @author Van Elias De Hondt
  * 18/11/2022
  */
 public class DemoChatBot {

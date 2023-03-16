@@ -1,5 +1,5 @@
 /**
- * Van Elias De Hondt
+ * @author Van Elias De Hondt
  * 28/11/2022
  */
 public final class Circle extends Shape {

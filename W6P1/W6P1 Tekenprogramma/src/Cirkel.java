@@ -1,7 +1,7 @@
 import static java.lang.String.format;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 3/11/2022
  */
 public class Cirkel {

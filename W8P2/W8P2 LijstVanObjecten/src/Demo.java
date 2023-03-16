@@ -2,7 +2,7 @@ import java.time.LocalDate;
 import java.util.Random;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 24/11/2022
  */
 public class Demo {

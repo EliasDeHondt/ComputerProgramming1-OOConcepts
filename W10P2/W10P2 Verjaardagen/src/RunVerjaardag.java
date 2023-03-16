@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 8/12/2022
  */
 public class RunVerjaardag {

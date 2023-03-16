@@ -3,7 +3,7 @@ import steenschaarpapier.Antwoord;
 import java.util.Random;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 28/11/2022
  */
 public class HarryRandom implements Deelnemer {

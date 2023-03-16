@@ -1,7 +1,7 @@
 import java.util.Comparator;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 8/12/2022
  */
 public class LeeftijdComparator implements Comparator<Opdracht5> {

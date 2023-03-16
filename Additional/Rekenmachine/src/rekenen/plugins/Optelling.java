@@ -1,7 +1,7 @@
 package rekenen.plugins;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 2/12/2022
  */
 public class Optelling implements Plugin {

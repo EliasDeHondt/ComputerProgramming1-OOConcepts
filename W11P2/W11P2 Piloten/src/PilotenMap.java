@@ -2,7 +2,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 15/12/2022
  */
 public class PilotenMap {

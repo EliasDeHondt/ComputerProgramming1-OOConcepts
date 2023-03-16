@@ -1,7 +1,7 @@
 import java.util.Random;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 14/11/2022
  */
 public class Kaart {

@@ -2,7 +2,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 /**
- * Van Elias De Hondt
+ * @author Van Elias De Hondt
  * 23/09/2022
  */
 public class Tafels {

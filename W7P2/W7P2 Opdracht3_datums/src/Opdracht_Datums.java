@@ -3,7 +3,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 17/11/2022
  */
 public class Opdracht_Datums {

@@ -2,7 +2,7 @@ import java.time.DayOfWeek;
 import java.time.LocalDate;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 17/11/2022
  */
 

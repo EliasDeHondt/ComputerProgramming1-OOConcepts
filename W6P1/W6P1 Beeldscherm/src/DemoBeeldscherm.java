@@ -1,5 +1,5 @@
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 30/10/2022
  */
 public class DemoBeeldscherm{

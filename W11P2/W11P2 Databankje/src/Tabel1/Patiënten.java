@@ -3,7 +3,7 @@ package Tabel1;
 import java.util.*;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 15/12/2022
  */
 public class Patiënten {

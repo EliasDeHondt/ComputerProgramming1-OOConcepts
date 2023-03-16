@@ -1,7 +1,7 @@
 package PersonnelCosts;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 28/12/2022
  */
 public class PersonnelCosts {

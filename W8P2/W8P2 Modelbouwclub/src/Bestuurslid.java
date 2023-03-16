@@ -1,5 +1,5 @@
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 24/11/2022
  */
 public class Bestuurslid extends Lid {

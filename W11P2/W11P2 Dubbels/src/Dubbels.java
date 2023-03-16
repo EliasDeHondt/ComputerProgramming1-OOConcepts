@@ -3,7 +3,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 /**
- * Van Elias De Hondt
+ @author Van Elias De Hondt
  * 12/12/2022
  */
 public class Dubbels {
