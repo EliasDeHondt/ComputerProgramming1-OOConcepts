@@ -1,7 +1,7 @@
 import geometry.Square;
 
 /**
- * @author Van Elias De Hondt
+ * @author Elias De Hondt
  * 24/11/2022
  */
 public class TestEqualsHashCode {

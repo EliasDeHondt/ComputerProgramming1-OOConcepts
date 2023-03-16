@@ -4,7 +4,7 @@ import Entities.Monster;
 import Entities.Player;
 
 /**
- * @author Van Elias De Hondt
+ * @author Elias De Hondt
  * 24/11/2022
  */
 public class Zombie extends Monster {

@@ -1,7 +1,7 @@
 import geometry.Shape;
 
 /**
- * @author Van Elias De Hondt
+ * @author Elias De Hondt
  * 21/11/2022
  */
 public class TestSquare {

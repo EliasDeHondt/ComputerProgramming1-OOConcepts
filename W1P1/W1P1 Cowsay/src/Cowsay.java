@@ -2,7 +2,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 /**
- * @author Van Elias De Hondt
+ * @author Elias De Hondt
  * 22/09/2022
  */
 public class Cowsay {

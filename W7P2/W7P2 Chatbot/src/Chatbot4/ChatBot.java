@@ -8,7 +8,7 @@ import java.util.Objects;
 import java.util.Random;
 
 /**
- * @author Van Elias De Hondt
+ * @author Elias De Hondt
  * 18/11/2022
  */
 public class ChatBot {

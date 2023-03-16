@@ -16,7 +16,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * @author Van Elias De Hondt
+ * @author Elias De Hondt
  * 24/11/2022
  */
 public class Doom {

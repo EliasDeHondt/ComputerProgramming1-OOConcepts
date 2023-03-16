@@ -3,7 +3,7 @@ package Entities;
 import java.util.Random;
 
 /**
- * @author Van Elias De Hondt
+ * @author Elias De Hondt
  * 24/11/2022
  */
 public class DoomCharacter {
