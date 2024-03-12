@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 17/11/2022
  */
 public class Ramadan {

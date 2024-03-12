@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 8/11/2022
  */
 public class TypeVariabele {

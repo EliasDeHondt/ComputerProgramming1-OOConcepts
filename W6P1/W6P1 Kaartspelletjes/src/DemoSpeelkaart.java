@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 24/10/2022
  */
 public class DemoSpeelkaart {

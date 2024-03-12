@@ -3,7 +3,7 @@ package observatie;
 import java.time.LocalDate;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 19/09/2022
  */
 public interface Identificeerbaar {

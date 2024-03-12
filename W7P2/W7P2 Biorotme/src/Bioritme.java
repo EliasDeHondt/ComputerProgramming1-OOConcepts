@@ -3,7 +3,7 @@ import java.time.temporal.ChronoUnit;
 import java.util.Scanner;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 17/11/2022
  */
 public class Bioritme {

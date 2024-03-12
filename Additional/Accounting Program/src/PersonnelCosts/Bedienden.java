@@ -1,7 +1,7 @@
 package PersonnelCosts;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 29/12/2022
  */
 public class Bedienden extends PersonnelCosts {

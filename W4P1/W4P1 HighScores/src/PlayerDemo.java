@@ -1,5 +1,5 @@
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 10/10/2022
  */
 public class PlayerDemo {

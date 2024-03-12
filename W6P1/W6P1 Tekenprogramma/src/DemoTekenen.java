@@ -1,5 +1,5 @@
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 3/11/2022
  */
 public class DemoTekenen {

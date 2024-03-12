@@ -1,7 +1,7 @@
 package formulas;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 20/10/2022
  */
 public class Graphic {

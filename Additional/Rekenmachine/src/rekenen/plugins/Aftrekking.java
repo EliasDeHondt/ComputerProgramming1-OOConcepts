@@ -1,7 +1,7 @@
 package rekenen.plugins;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 2/12/2022
  */
 public class Aftrekking implements Plugin {

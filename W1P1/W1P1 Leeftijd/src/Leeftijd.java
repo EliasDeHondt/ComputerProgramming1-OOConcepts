@@ -2,7 +2,7 @@ import java.time.LocalDate;
 import java.util.Scanner;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 19/09/2022
  */
 public class Leeftijd {

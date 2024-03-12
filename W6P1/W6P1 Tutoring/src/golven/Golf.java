@@ -1,7 +1,7 @@
 package golven;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 28/10/2022
  */
 public class Golf {

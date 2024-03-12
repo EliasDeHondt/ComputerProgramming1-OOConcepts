@@ -6,7 +6,7 @@ import Table2.Huisarts;
 import Table2.Huisartsen;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 15/12/2022
  */
 public class DemoDatabankje {

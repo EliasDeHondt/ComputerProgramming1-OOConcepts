@@ -1,5 +1,5 @@
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 20/12/2022
  */
 public class GeschenkExceptien extends IllegalArgumentException {

@@ -4,7 +4,7 @@ import PersonnelCosts.*;
 import java.util.Scanner;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 28/12/2022
  */
 public class DamoTerminal {

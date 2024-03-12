@@ -1,5 +1,5 @@
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 19/12/2022
  */
 public class Berghutten implements Comparable<Berghutten>{

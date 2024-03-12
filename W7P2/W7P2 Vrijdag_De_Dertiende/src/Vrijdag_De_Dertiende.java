@@ -3,7 +3,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 17/11/2022
  */
 public class Vrijdag_De_Dertiende {

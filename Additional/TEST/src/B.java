@@ -1,5 +1,5 @@
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 4/03/2023
  */
 public class B {

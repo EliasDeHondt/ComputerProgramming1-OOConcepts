@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 30/09/2022
  */
 public class Oefening1 {

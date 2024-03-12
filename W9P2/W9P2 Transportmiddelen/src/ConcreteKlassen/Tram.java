@@ -3,7 +3,7 @@ package ConcreteKlassen;
 import Transportmiddel.Transportmiddel;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 28/11/2022
  */
 public class Tram extends Transportmiddel {

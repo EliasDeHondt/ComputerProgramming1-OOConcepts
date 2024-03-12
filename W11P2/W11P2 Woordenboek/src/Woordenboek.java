@@ -2,7 +2,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 15/12/2022
  */
 public class Woordenboek {

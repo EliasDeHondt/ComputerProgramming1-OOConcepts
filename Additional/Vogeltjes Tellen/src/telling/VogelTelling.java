@@ -10,7 +10,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 19/09/2022
  */
 public class VogelTelling {

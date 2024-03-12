@@ -1,7 +1,7 @@
 package Table2;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 15/12/2022
  */
 public class Huisarts {

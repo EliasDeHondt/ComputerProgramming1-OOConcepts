@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 12/12/2022
  */
 public class DemoHashSet {

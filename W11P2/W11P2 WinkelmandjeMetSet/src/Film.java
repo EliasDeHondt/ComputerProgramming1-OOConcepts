@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 5/12/2022
  */
 public class Film extends Artikel{

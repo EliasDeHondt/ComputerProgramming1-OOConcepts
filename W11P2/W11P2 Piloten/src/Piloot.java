@@ -2,7 +2,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 15/12/2022
  */
 public class Piloot {

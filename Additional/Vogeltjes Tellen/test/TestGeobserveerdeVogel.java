@@ -3,7 +3,7 @@ import observatie.Identificeerbaar;
 import vogels.Habitat;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 19/09/2022
  */
 public class TestGeobserveerdeVogel {

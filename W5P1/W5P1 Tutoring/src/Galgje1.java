@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 21/10/2022
  */
 public class Galgje1 {

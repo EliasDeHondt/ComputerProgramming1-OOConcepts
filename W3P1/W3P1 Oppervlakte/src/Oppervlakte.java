@@ -1,5 +1,5 @@
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 6/10/2022
  */
 public class Oppervlakte {

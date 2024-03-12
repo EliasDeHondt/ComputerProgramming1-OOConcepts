@@ -1,5 +1,5 @@
 /**
- @author Van Elias De Hondt
+ @author Elias De Hondt
  * 8/12/2022
  */
 public class Opdracht4 implements Comparable<Opdracht4>{
